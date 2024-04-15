@@ -13,14 +13,13 @@ The "Bike Seoul" initiative in South Korea aims to provide sustainable urban tra
 
 ## Project Structure
 
-- `data/`: Contains dataset files sourced from the Seoul city government's open data portal and Kaggle.
-- `notebooks/`: Jupyter notebooks for data preprocessing, exploratory data analysis, and model development.
-- `models/`: Trained machine learning models saved for deployment.
-- `scripts/`: Helper scripts for data processing and model evaluation.
+- `SeoulBikeData.csv/`: Contains dataset files sourced from the Seoul city government's open data portal and Kaggle.
+- `Predicting_Bike_Sharing_Demand_A_Regression_Analysis.ipynb/`: Jupyter notebooks for data preprocessing, exploratory data analysis, and model development.
 
 
 
- Explore the notebooks in `notebooks/` for data analysis and model development.
+
+ Explore the notebooks for data analysis and model development.
 
 ## Contributions
 
